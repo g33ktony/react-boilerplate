@@ -1,0 +1,25 @@
+{
+  "name": "react-gulp-base",
+  "description": "React base project with Gulp",
+  "main": "index.js",
+  "authors": [
+    "Rabrux <n3ur0n4@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "gulp"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "^15.3.2"
+  }
+}
