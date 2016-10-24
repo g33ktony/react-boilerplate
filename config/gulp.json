@@ -1,8 +1,8 @@
 {
-  "coffee": {
+  "app": {
     "source": [
-      "src/coffee/*.coffee",
-      "src/coffee/**/*.coffee"
+      "src/app/main.js",
+      "src/app/**/*.js"
     ],
     "file": "app.min.js",
     "dest": "dist/js"
